@@ -1,2 +1,13 @@
 # chinese_chitchat
-中文对话闲聊机器人
+![image](pic/screen.png)
+
+If you want to use the model and code, please refer to https://github.com/yaoxiaoyuan/mimix.
+
+```
+@misc{mimix,
+  title={mimix},
+  author={Xiaoyuan, yao},
+  year={2021}
+}
+```
+
